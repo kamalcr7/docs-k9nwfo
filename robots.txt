@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-lan8p3.indocuan.space/sitemap.xml
